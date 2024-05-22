@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi there, I'm Swikar Paudel 👋<br>🚀 Coding Freak |</h2>
+<h2 align="left">Hi there, I'm Swikar Paudel 👋<br>🚀 Coding Freak </h2>
 
 ###
 
